@@ -1,5 +1,3 @@
-Sure! Here's a sample README.md file for the provided code:
-
 # BMI Calculator
 
 This program calculates the Body Mass Index (BMI) based on user input for weight and height. The BMI is then used to determine the weight category (underweight, normal weight, overweight, or obese).
